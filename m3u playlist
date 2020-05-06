@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo"https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/IBC-Tamil-new1-white.pnghttps://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/IBC-Tamil-new1-white.png" group-title="General",IBC Tamil
+https://ibctamil-live.ibctamil.com/transcode/ibctamil_std.m3u8
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/IBC-Music-new1-white.png"group-title="Music",IBC Music
+https://ibcmusic-live.ibctamil.com/transcode/music_std.m3u8
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/IBC-Comedy-new1-white.png"group-title="Comedy",IBC Comedy
+https://ibccomedy-live.ibctamil.com/transcode/ibccomedy_std.m3u8
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/kalaignar-tv-uk-white.png"group-title="General",Kalaingar TV
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/Stream(01)/index.m3u8
+#EXTINF:0, ZEE Tamil
