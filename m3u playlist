@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo"https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/IBC-Tamil-new1-white.pnghttps://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/IBC-Tamil-new1-white.png" group-title="General",IBC Tamil
+#EXTINF:-1 tvg-logo"https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/IBC-Tamil-new1-white.png" group-title="General",IBC Tamil
 https://ibctamil-live.ibctamil.com/transcode/ibctamil_std.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/IBC-Music-new1-white.png"group-title="Music",IBC Music
 https://ibcmusic-live.ibctamil.com/transcode/music_std.m3u8
@@ -7,3 +7,11 @@ https://ibcmusic-live.ibctamil.com/transcode/music_std.m3u8
 https://ibccomedy-live.ibctamil.com/transcode/ibccomedy_std.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/kalaignar-tv-uk-white.png"group-title="General",Kalaingar TV
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/ktv-HD-white.png"group-title="Movies",KTV
+http://streamxcode.ddns.net:25461/load/desiboyz150/3369.mpegts
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/jaya-movies-white.png"group-title="Movies",Jaya Movies
+http://streamxcode.ddns.net:25461/load/desiboyz150/3396.mpegts
+#EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/12/zee-tamil-logo-1-2.jpg"group-title="General",ZEE Tamil
+http://streamxcode.ddns.net:25461/load/desiboyz150/5445.mpegts
+#EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2019/12/zee-thirai.jpg"group-title="Movies",ZEE Thirai
+https://z5ams.akamaized.net/zthirai/index.m3u8?hdnts=st=1588793909~exp=1588796909~acl=/*~hmac=46e60ebbf31eebbf2df8afc745f11a44fa6cd0ebec17ad33e428a5f0be47caf3
