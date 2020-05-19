@@ -1,17 +1,17 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo"https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/IBC-Tamil-new1-white.png" group-title="General",IBC Tamil
-https://ibctamil-live.ibctamil.com/transcode/ibctamil_std.m3u8
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/IBC-Music-new1-white.png"group-title="Music",IBC Music
-https://ibcmusic-live.ibctamil.com/transcode/music_std.m3u8
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/IBC-Comedy-new1-white.png"group-title="Comedy",IBC Comedy
-https://ibccomedy-live.ibctamil.com/transcode/ibccomedy_std.m3u8
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/kalaignar-tv-uk-white.png"group-title="General",Kalaingar TV
-http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/ktv-HD-white.png"group-title="Movies",KTV
+#EXTM3U x-tvg-url="http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/India/whatsonindia.com.channels.xml"
+#EXTINF:-1 tvg-id="Star Vijay" tvg-language="Tamil" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png",Star Vijay 
+https://hses4.akamaized.net/videos/hotstarint/forceup/1260025161/1586341016779/fcc2ab35a8cfbd1315af85b0085f1689/master-tv.m3u8
+#EXTINF:-1 tvg-id="Sun TV HD" tvg-language="Tamil" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/sun-HD-white.png",Sun TV HD
+http://185.63.254.79:4747/south2019/suntvhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDE6MDU6MjAgUE0maGFzaF92YWx1ZT1mR2lxMHBESkpTc0RPOTUydzBSVVJRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="KTV HD" tvg-language="Tamil" tvg-logo="d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/ktv-HD-white.png",KTV
 http://streamxcode.ddns.net:25461/load/desiboyz150/3369.mpegts
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/jaya-movies-white.png"group-title="Movies",Jaya Movies
-http://streamxcode.ddns.net:25461/load/desiboyz150/3396.mpegts
-#EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/12/zee-tamil-logo-1-2.jpg"group-title="General",ZEE Tamil
-http://streamxcode.ddns.net:25461/load/desiboyz150/5445.mpegts
-#EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2019/12/zee-thirai.jpg"group-title="Movies",ZEE Thirai
-https://z5ams.akamaized.net/zthirai/index.m3u8?hdnts=st=1588793909~exp=1588796909~acl=/*~hmac=46e60ebbf31eebbf2df8afc745f11a44fa6cd0ebec17ad33e428a5f0be47caf3
+#EXTINF:-1 tvg-id="Sun Music" tvg-language="Tamil" tvg-logo="udfront.net/tv/150/150/bnw/sun-music-white.png",Sun Music
+http://185.63.254.79:4747/south2019/sunmusichd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDE6MDk6NDkgUE0maGFzaF92YWx1ZT1ubVV4MHhYZXEyVVg4OVU4VS9sNGFRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="Zee Tamizh" tvg-language="Tamil" tvg-logo="d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/zee-tamil-white.png",Zee Tamizh
+https://z5ams.akamaized.net/out/v1/d6f47c41936a41ac958254ab9cfc2d2f/index.m3u8?hdnts=st=1589892207~exp=1589895207~acl=/*~hmac=f86f1e69c393adc0249f7452ce7b37f1b202a5861e8217c2c0480ffa20f8a181
+#EXTINF:-1 tvg-id="IBC Tamil" tvg-language="Tamil" tvg-logo="d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/IBC-Tamil-new1-white.png",IBC Tamil
+https://ibctamil-live.ibctamil.com/transcode/ibctamil_std.m3u8
+#EXTINF:-1 tvg-id="IBC Music" tvg-language="Tamil" tvg-logo="d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/IBC-Music-new1-white.png",IBC Music
+https://ibcmusic-live.ibctamil.com/transcode/music_std.m3u8
+#EXTINF:-1 tvg-id="IBC Comedy" tvg-language="Tamil" tvg-logo="d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/IBC-Comedy-new1-white.png",IBC Comedy
+https://ibccomedy-live.ibctamil.com/transcode/ibccomedy_std.m3u8
